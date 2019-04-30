@@ -27,7 +27,8 @@ There are two arguments to justify the usage of 3*3 kernels:
     a. Over even kernels like 2x2
     
       -- When we use odd kernels like 3x3, the resulting layer will have impact from all the neighboring cells and will have symmentry.
-      this will not be the case with 2x2 or any other even sized kernels where the chances of we missing the impact from either side is        more and therefore we might loose on information.
+      this will not be the case with 2x2 or any other even sized kernels where the chances of we missing the impact from either side is
+      more and therefore we might loose on information.
     
     b.Over odd kernels of higher number like 5*5 or 7*7 etc
      
