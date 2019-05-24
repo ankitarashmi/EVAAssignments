@@ -1,5 +1,23 @@
 
-How many layers,
+Following sequence is the sequence in which i try to create and improve my model:
+
+
+1.Receptive Field
+3x3 Convolutions
+2.How many layers:
+Kernels and how do we decide the number of kernels?
+1x1 Convolutions
+3.Concept of Transition Layers,
+4.Position of Transition Layer,
+MaxPooling,
+Position of MaxPooling,
+The distance of MaxPooling from Prediction
+When do we stop convolutions and go ahead with a larger kernel or some other alternative (which we have not yet covered)
+
+
+Batch Normalization
+
+==========================================
 MaxPooling,
 1x1 Convolutions,
 3x3 Convolutions,
