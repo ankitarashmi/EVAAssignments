@@ -1,3 +1,6 @@
+
+Architectural Basics:--
+
 •	Image Normalization
 		
     Normalization of image for example the images to have similar lighting conditions have to be done before we decide on any architecture.
